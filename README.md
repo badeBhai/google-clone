@@ -40,7 +40,6 @@ Check out Google Clone App at [Google Clone](https://google-clone-plum-psi.verce
 ## Snapshots of the application
 ![google_clone1](https://user-images.githubusercontent.com/107386324/177013814-7a285da7-3102-4656-bed9-40d4bd06423c.png)
 
-![google_clone2](https://user-images.githubusercontent.com/107386324/177013894-f702696d-c841-4c34-884c-93206cd0444e.png)
 
 ![google_clone3](https://user-images.githubusercontent.com/107386324/177013896-d0aadd07-9e7a-4a96-a904-f974fddffe7c.png)
 
