@@ -3,4 +3,14 @@ const nextConfig = {
   reactStrictMode: true,
 }
 
-module.exports = nextConfig
+module.exports = {
+  nextConfig,
+  images: {
+    domains: ["www.freepnglogos.com"],
+  },
+  resolve: {
+        fallback: {
+            "fs": false
+        },
+      }
+};
