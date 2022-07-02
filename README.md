@@ -1,40 +1,58 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Google Clone Application
 
-## Getting Started
+## Table of contents
+* [General info](#general-info)
+* [Technologies Used](#technologies-used)
+* [Setup](#setup)
+* [Deployed Application Link](#deployed-application-link)
+* [Snapshots of the Application](#snapshots-of-the-application)
+* [Reach Me Out](#reach-me-out)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
+## General info
+This is a simple Google Search Clone which enables user to search anything on the internet as we do it on [Google.com](https://www.google.co.in/).
+
+## Technologies-Used
+This Projects uses latest and industry standard technologies such as:
+*Next.js
+*Tailwind CSS
+*Server Side Rendering
+*Google Programmable Search Engine
+*Pagination
+
+## Setup
+To run this project on your local machine, install it locally using npm and yarn:
+
 ```
+$ npm install
+$ yarn install
+$ yarn dev
+```
+This Application uses [API](https://developers.google.com/custom-search/v1/introduction#identify_your_application_to_google_with_api_key) and [Context](https://programmablesearchengine.google.com/controlpanel/create) Key From [Google Programmable Search Engine](https://programmablesearchengine.google.com/).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+You can learn more about creating your own search engines at [Programmable Search Engine](https://developers.google.com/custom-search/docs/tutorial/introduction)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Deployed Application Link 
 
-
 Check out Google Clone App at [Google Clone](https://google-clone-plum-psi.vercel.app/) for real experience.
+
+## Snapshots of the application
+![google_clone1](https://user-images.githubusercontent.com/107386324/177013814-7a285da7-3102-4656-bed9-40d4bd06423c.png)
+
+![google_clone2](https://user-images.githubusercontent.com/107386324/177013894-f702696d-c841-4c34-884c-93206cd0444e.png)
+
+![google_clone3](https://user-images.githubusercontent.com/107386324/177013896-d0aadd07-9e7a-4a96-a904-f974fddffe7c.png)
+
+![google_clone4](https://user-images.githubusercontent.com/107386324/177013897-1b1d2dad-b7f5-4982-a27f-8862ebc12f50.png)
+
+
+## Reach me out
+
+I will appreciate if you can inform me of any bug/fix/issue/suggestion in this application [@Mail](mailto:prakhardevs1@gmail.com)
+
+
+
+
+
 
